@@ -15,3 +15,7 @@ Packet Tracer: Once I run the virtual machine, I open the Cisco Packet Tracer fr
 PROJECT 1
 
 In Project 1, I configure switch configurations, as well as IP addressing on switches and PCs. I then test network connectivity by implementing ping requests in the PC's command prompt. 
+
+PROJECT 2
+
+In Project 2, I implemented a router to my earlier system design from PROJECT 1. I connect the switches to the router via the FastEthernet Interface. Additionally, I configured a default gateway in the switches and the PCs in order to allow these devices to communicate across multiple networks.
